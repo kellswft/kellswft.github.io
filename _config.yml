@@ -1,10 +1,10 @@
 # Site settings
-title: Kellswft
+title: KELLSWFT
 email: noreply@kellswft.com
 url: https://kellswft.github.io/
 description: "Portfolio"
 keywords: "security researcher, ethical hacking, portfolio, website, maker"
-skills: "Maker - Security Researcher"
+skills: "Security Researcher"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: KS Systems
+  copyright: KELLSWFT
  # location: Location
   social: Get in touch
   #credits: Credits
